@@ -12,11 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcd7ab39-2876-490a-b99b-2d8c72b3996b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/rust-setup.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flake.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flake.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flake.nix" beforeDir="false" afterPath="$PROJECT_DIR$/flake.nix" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +92,7 @@
       <workItem from="1771219534365" duration="628000" />
       <workItem from="1771232691921" duration="9000" />
       <workItem from="1771232728535" duration="122000" />
-      <workItem from="1773063568503" duration="1252000" />
+      <workItem from="1773063568503" duration="2708000" />
     </task>
     <servers />
   </component>
